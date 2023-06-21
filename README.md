@@ -5,7 +5,7 @@ I am passionate about creating clean, scalable code and delivering high-quality 
 
 - 🔭 &nbsp;I’m currently working as freelancer
 - 🌱 &nbsp;I’m currently learning Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript or Angular/React/Express
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React/Express
 - 👨‍💻 &nbsp;Read more about my projects at [Github](https://github.com/bibo54524)
 <!-- - 📝 &nbsp;I write articles on [my blog](https://google.com) -->
 
