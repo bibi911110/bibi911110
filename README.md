@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=bibo54524&style=flat-square)
+
 ## Hi there 👋
 
 I am a full stack web developer with a focus on JavaScript frontend frameworks.
@@ -16,4 +18,3 @@ I am passionate about creating clean, scalable code and delivering high-quality 
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 -->
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
