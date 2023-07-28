@@ -6,7 +6,7 @@ I am passionate about creating clean, scalable code and delivering high-quality 
 - 🔭 &nbsp;I’m currently working as freelancer
 - 🌱 &nbsp;I’m currently learning Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React/Express
-- 👨‍💻 &nbsp;Read more about my projects at [here](https://minato-portfolio.onrender.com/projects)
+- 👨‍💻 &nbsp;Read more about my projects [here](https://minato-portfolio.onrender.com/projects)
 - ✍ &nbsp;I am writing my blogs [here](https://minato-portfolio.onrender.com/blogs)
 
 <!-- https://drive.google.com/file/d/17bKx3E4wpQfBBjjZf4POT1sb6rsSpNaS/view?usp=drive_link -->
