@@ -4,7 +4,7 @@ I am a full stack web developer with a focus on JavaScript frontend frameworks.
 I am passionate about creating clean, scalable code and delivering high-quality projects that meet client's needs and exceed expectations.
 
 - 🔭 &nbsp;I’m currently working as freelancer
-- 🌱 &nbsp;I’m currently learning Go
+- 🌱 &nbsp;I’m currently learning Python
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React/Express
 - 👨‍💻 &nbsp;Read more about my projects [here](https://minato-portfolio.onrender.com/projects)
 - ✍ &nbsp;I am writing my blogs [here](https://minato-portfolio.onrender.com/blogs)
