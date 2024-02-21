@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am a full stack web developer with a focus on JavaScript frontend frameworks.
-I am passionate about creating clean, scalable code and delivering high-quality projects that meet client's needs and exceed expectations.
+I am passionate about creating clean, scalable code and delivering high-quality projects.
 
 <!-- - I’m currently working as freelancer
 - I’m currently learning Python
