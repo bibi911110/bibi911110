@@ -12,6 +12,8 @@ I am passionate about creating clean, scalable code and delivering high-quality 
 
 
 <!--
-https://drive.google.com/file/d/1_Id-3-wsBciqMuAVUb8xaHarInsRxsU-/view?usp=drive_link
-https://drive.google.com/file/d/1XTxpJ1qtUPTrWgHVvG-CoAivBYWUpEAd/view?usp=drive_link
+Banana: https://drive.google.com/file/d/1_Id-3-wsBciqMuAVUb8xaHarInsRxsU-/view?usp=drive_link
+Personal: https://drive.google.com/file/d/1XTxpJ1qtUPTrWgHVvG-CoAivBYWUpEAd/view?usp=drive_link
+Odo: https://drive.google.com/file/d/13gZd2So0UOBdHuwbUpgE55-W26GrAwW5/view?usp=drive_link
+MuMu: https://drive.google.com/file/d/1KPH1OWRhlrTIWgLlcpFD91Kh4MHgAk0Y/view?usp=drive_link
 -->
